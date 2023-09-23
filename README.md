@@ -1,6 +1,6 @@
 # ytstream: 24/7 YouTube Live Streaming with FFmpeg on a VPS
 
-Welcome to `ytstream`! This repository is tailored for enthusiasts looking to achieve continuous live streaming on YouTube using a free VPS. Dive into the world of 24/7 streaming without any hassle.
+Welcome to `ytstream`! This repository is tailored for enthusiasts looking to achieve continuous live streaming on YouTube using a VPS. Dive into the world of 24/7 streaming without any hassle.
 
 🎥 **Catch our ongoing live demonstration**: [`Click Here`](https://www.youtube.com/watch?v=QC2bZbItW2E)
 [![PixelMario Live Stream](https://github.com/ec-026/ytstream/assets/95495584/498de624-1187-48fd-b448-b79d355186f4)](https://www.youtube.com/watch?v=QC2bZbItW2E)
