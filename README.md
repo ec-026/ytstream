@@ -2,8 +2,8 @@
 
 Welcome to `ytstream`! This repository is tailored for enthusiasts looking to achieve continuous live streaming on YouTube using a VPS. Dive into the world of 24/7 streaming without any hassle.
 
-🎥 **Catch our ongoing live demonstration**: [`Click Here`](https://www.youtube.com/watch?v=QC2bZbItW2E)
-[![PixelMario Live Stream](https://github-production-user-asset-6210df.s3.amazonaws.com/95495584/270113344-498de624-1187-48fd-b448-b79d355186f4.png)](https://www.youtube.com/watch?v=QC2bZbItW2E)
+🎥 **Catch our ongoing live demonstration**: <a href="https://www.youtube.com/watch?v=QC2bZbItW2E" target="_blank">`Click Here`</a>
+<a href="https://www.youtube.com/watch?v=QC2bZbItW2E" target="_blank"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/95495584/270113344-498de624-1187-48fd-b448-b79d355186f4.png" alt="PixelMario Live Stream"></a>
 
 ## Instructions for Setup and Use:
 
